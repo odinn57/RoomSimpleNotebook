@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_new_note">Add new note</string>
+</resources>
